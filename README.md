@@ -6,7 +6,7 @@ A **full-stack Netflix clone** built with **React & Firebase**, focusing on auth
 
 ## 💡 What I Learned
 
-Building this project helped me understand **how to build a full-stack app**, integrating frontend, backend, authentication, and API calls seamlessly.
+Building this project helped me understand **how to handle a full-stack app**, integrating frontend, backend, authentication, and API calls seamlessly.
 
 ## 🌟 Features
 
@@ -19,7 +19,7 @@ Building this project helped me understand **how to build a full-stack app**, in
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, CSS
 - **Backend:** Firebase Authentication, Firestore
 - **APIs:** TMDB API (for movie data)
 - **Hosting:** Firebase Hosting
